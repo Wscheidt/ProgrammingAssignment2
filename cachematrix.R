@@ -1,4 +1,4 @@
-## These two functions take a matrix and calculates its inverse
+## These two functions take a matrix and then calculates its inverse
 ## and stores it to the cache
 
 ## Takes a Matrix
